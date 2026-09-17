@@ -464,7 +464,7 @@ The architecture separates the data-processing pipeline from the serving layer, 
 
 ## 👨‍💻 Author
 
-**Ziad Elsayed**
+**Ziad Elsayed & Omar Sayed**
 
 AI & Data Science Student
 Computer Science and Information Technology
