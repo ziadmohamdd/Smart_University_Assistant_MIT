@@ -1,0 +1,16 @@
+# --- Web framework ---
+fastapi==0.141.1
+uvicorn[standard]==0.53.0
+
+# --- Config / validation ---
+pydantic==2.13.5
+pydantic-settings==2.15.0
+
+# --- RAG pipeline (same libraries/versions family as notebooks/rag_pipeline.ipynb) ---
+chromadb==1.5.9
+sentence-transformers==6.0.1
+ollama==0.6.2
+
+# --- Testing ---
+pytest==9.1.1
+httpx==0.28.1
